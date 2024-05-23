@@ -1,0 +1,60 @@
+#!/usr/bin/env bash
+#
+# The hook script to verify what is about to be committed.
+# Called by "git commit" with no arguments.  The hook should
+# exit with non-zero status after issuing an appropriate message if
+# it wants to stop the commit.
+
+# The hook encrypts the .env file if present in the repository
+
+## Read the README if you get any error. DO NOT bypass the PRE-COMMIT HOOK
+
+# Exit on error. Append "|| true" if you expect an error.
+set -o errexit
+# Exit on error inside any functions or subshells.
+set -o errtrace
+# Do not allow use of undefined vars. Use ${VAR:-} to use an undefined VAR
+set -o nounset
+# Catch the error in case mysqldump fails (but gzip succeeds) in `mysqldump |gzip`
+set -o pipefail
+
+
+__env_file=".env"
+
+if [ ! -f ${__env_file} ]; then
+    echo "Environment file not present, Nothing to do!"
+	echo "Proceeding with normal commit"
+	exit 0
+fi
+
+__make_sample_env(){
+	# @param env_keys: a space separated string of env keys
+	echo $* | sed s/' '/'\n'/g > ${__env_file}.sample
+}
+
+__env_keys=$(cat ${__env_file} | cut -d '=' -f 1 | xargs -I{} echo {}= | sort)
+if [ -f ${__env_file}".sample" ]; then
+	
+	__env_sample_keys=$(cat ${__env_file}.sample)
+	if [[ ! ${__env_keys} == ${__env_sample_keys} ]]; then
+		rm ${__env_file}.sample
+		__make_sample_env ${__env_keys}
+	fi
+else 
+	__make_sample_env ${__env_keys}
+fi
+
+git add ${__env_file}.sample
+
+echo "Environment file present"
+echo "Beginning Encryption Process"
+
+git secret add ${__env_file}
+
+git secret hide
+
+git add ${__env_file}.secret
+git add .gitsecret/
+git add .gitignore
+echo "Encryption of files successfull"
+exit 0
