@@ -24,10 +24,6 @@ Join [here](https://chat.whatsapp.com/CfgJ0MgnYqCIoSlstnpFLp)!
 - [CodeForces](https://codeforces.com/)
 
 
-## Building Projects
-- [DevClub Summer of Code 2023](https://github.com/devclub-iitd/summer-of-code-2023)
-
-
 ## Forums
 
 ### Compensation, Reviews, Interview Experiences
@@ -35,3 +31,8 @@ Join [here](https://chat.whatsapp.com/CfgJ0MgnYqCIoSlstnpFLp)!
 - [Levels.FYI](https://www.levels.fyi/)
 - [GlassDoor](https://www.glassdoor.co.in/Reviews/index.htm)
 - [AmbitionBox](https://www.ambitionbox.com/reviews)
+
+
+## Other Resources
+- Building Projects on Backend/Frontend/ML/App Dev: [DevClub Summer of Code 2023](https://github.com/devclub-iitd/summer-of-code-2023)
+- Companies List and Interview Experiences: [ChinmayMittal/IITD-CSE](https://github.com/ChinmayMittal/IITD-CSE/tree/main/3rd-year/internship-season)
