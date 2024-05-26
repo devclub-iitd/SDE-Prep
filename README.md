@@ -35,5 +35,6 @@ Join [here](https://chat.whatsapp.com/CfgJ0MgnYqCIoSlstnpFLp)!
 
 ## Other Resources
 - Building Projects on Backend/Frontend/ML/App Dev: [DevClub Summer of Code 2023](https://github.com/devclub-iitd/summer-of-code-2023)
-- Companies List and Interview Experiences: [ChinmayMittal/IITD-CSE](https://github.com/ChinmayMittal/IITD-CSE/tree/main/3rd-year/internship-season)
 - Competitive Programming Resources: [ANCC's Summer of CP 2021](https://ancc-iitd.github.io/competitive-programming-resources/)
+- Companies List and Interview Experiences: [ChinmayMittal/IITD-CSE](https://github.com/ChinmayMittal/IITD-CSE/tree/main/3rd-year/internship-season)
+- Quant Preparation Resources: [Aniruddha-Deb/quant-prep](https://github.com/Aniruddha-Deb/quant-prep)
