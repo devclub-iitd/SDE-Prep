@@ -23,6 +23,12 @@ Join [here](https://chat.whatsapp.com/CfgJ0MgnYqCIoSlstnpFLp)!
 - [Striver DSA](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [CodeForces](https://codeforces.com/)
 
+## Quant/Math Resources  
+
+- [Brainstellar](https://brainstellar.com/) : Good starting resource, easier problems
+- [Fifty Challenging Problems in Probability](https://www.amazon.in/Challenging-Problems-Probability-Solutions-Mathematics/dp/0486653552)
+- [PuzzledQuant](https://www.puzzledquant.com/) : Relatively new website, greater variety and regularly updated
+- [Cut The Knot](https://cut-the-knot.org/) : More Mathematical 
 
 ## Forums
 
