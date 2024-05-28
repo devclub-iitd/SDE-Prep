@@ -1,4 +1,4 @@
-# DSA Problem of the Day
+# DSA Problem of the Day (27/05/2024)
 
 ## Implementation and Array Manipulation
 
@@ -17,3 +17,9 @@ To begin, follow [LeetCode](https://leetcode.com/) and solve the following probl
 We'll cover more topics in DSA in the following weeks, so it is recommended you try to complete these problems as soon as possible.
 
 **Note:** We will be adding solutions to these problems in the upcoming days, so do check back regularly.
+
+## Solutions
+1. Rotate Array:- [C++](./189%20Rotate%20Array.cpp), [Python3](./189%20Rotate%20Array.py)
+2. Elimination Game:- [C++](./390%20Elimination%20Game.cpp), [Python3](./390%20Elimination%20Game.py)
+3. Add Digits:- [C++](./258%20Add%20Digits.cpp), [Python3](./258%20Add%20Digits.py)
+4. Stone Game:- [C++](./877%20Stone%20Game.cpp), [Python3](./877%20Stone%20Game.py)
