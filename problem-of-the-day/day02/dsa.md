@@ -19,4 +19,4 @@ To begin, follow [LeetCode](https://leetcode.com/) and [CSES](https://cses.fi/pr
 
 We'll cover more topics in DSA in the following weeks, so it is recommended you try to complete these problems as soon as possible.
 
-**Note:** Solutions to [day01](./day01) are uploaded.
+**Note:** Solutions to [day01](../day01) are uploaded.
