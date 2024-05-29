@@ -13,13 +13,12 @@ including performance optimization, concurrency control, and system design.
 Demonstrating a solid grasp of multithreading concepts and their practical applications can significantly enhance a candidate's prospects in technical interviews.   
     
 To begin, Here's an excellent article for the Theory [TechTarget](https://www.techtarget.com/whatis/definition/multithreading).     
-For implementation basics, You can try [OpenMP with CPP](https://curc.readthedocs.io/en/latest/programming/OpenMP-C.html), read the article upto `Barrier and Critical Directives`,
-and implement the examples (Implementing by Hand is necessary to make sure you have a proper understanding of concepts).      
+For implementation basics, You can try [PDF](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf), or [GeeksForGeeks](https://www.geeksforgeeks.org/openmp-hello-world-program/). Make sure to implement the code to get a solid grasp over the topic.   
+Questions maybe asked directly from usage/implementation of various methods of pthread.
 
 We'll cover more topics of Computer Architecture (including Multithreading) in later weeks, so it is recommended you try to complete this short tutorial asap.
 
 
-Additional References : 
-[GeeksForGeeks](https://www.geeksforgeeks.org/openmp-hello-world-program/).    
+Additional References :   
 For those Interested to learn Multithreading in Java... Here's an interesting way to learn by Questions : 
 [PDF](https://enos.itcollege.ee/~jpoial/allalaadimised/reading/Multithreading-and-Concurrency-Questions.pdf).
