@@ -13,7 +13,7 @@ including performance optimization, concurrency control, and system design.
 Demonstrating a solid grasp of multithreading concepts and their practical applications can significantly enhance a candidate's prospects in technical interviews.   
     
 To begin, Here's an excellent article for the Theory [TechTarget](https://www.techtarget.com/whatis/definition/multithreading).     
-For implementation basics, You can try [PDF](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf), or [GeeksForGeeks](https://www.geeksforgeeks.org/multithreading-in-cpp/). Make sure to implement the code to get a solid grasp over the topic.   
+For implementation basics, You can try [PDF](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf), or [Medium](https://medium.com/codex/c-multithreading-the-simple-way-95aa1f7304a2). Make sure to implement the code to get a solid grasp over the topic.   
 Questions maybe asked directly from usage/implementation of various methods of pthread.
 
 We'll cover more topics of Computer Architecture (including Multithreading) in later weeks, so it is recommended you try to complete this short tutorial asap.
