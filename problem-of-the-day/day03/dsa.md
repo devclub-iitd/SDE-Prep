@@ -25,3 +25,8 @@ To begin, follow [LeetCode](https://leetcode.com/) and [CSES](https://cses.fi/pr
 We'll cover more topics in DSA in the following weeks, so it is recommended you try to complete these problems as soon as possible.
 
 **Note:** Solutions to [day02](../day02) are uploaded.
+
+## Solutions
+1. Search in rotated array :- [C++](./33%20Search%20in%20Rotated%20Array.cpp), [Python3](./33%20Search%20in%20Rotated%20Array.py)
+2. Distinct Numbers :- [C++](./1090%20Ferris%20Wheel.cpp), [Python3](./1621%20Distinct%20Number.py)
+3. Ferris Wheel :- [C++](./1090%20Ferris%20Wheel.cpp), [Python3](./1090%20Ferris%20Wheel.py)
