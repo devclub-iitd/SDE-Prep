@@ -16,4 +16,4 @@ Observe that writing a explicit loop invariant helps a lot in debugginig linked 
 
 * Operations on stack/queue in C++ are slower than operations on deque. Why ?
 
-**Note:** Solutions to [day03](../day04) are uploaded.
+**Note:** Solutions to [day04](../day04) are uploaded.
