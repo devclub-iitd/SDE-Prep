@@ -17,3 +17,10 @@ Observe that writing a explicit loop invariant helps a lot in debugginig linked 
 * Operations on stack/queue in C++ are slower than operations on deque. Why ?
 
 **Note:** Solutions to [day04](../day04) are uploaded.
+
+## Solution
+1. Reverse Linked List:- [C++](./Reverse%20Linked%20List.cpp), [Python3]()
+2. Add Two Numbers:- [C++](./Add%20Two%20Numbers.cpp), [Python3](./Add%20Two%20Numbers.py)
+3. Design Twitter:- [C++](./Design%20Twitter.cpp), [Python3](./Design%20Twitter.py)
+4. LRU Cache:- [C++](./LRU%20Cache.cpp), [Python3](./LRU%20Cache.py)
+5. Merge K Sorted List:- [C++](./Merge%20K%20Sorted%20List.cpp), [Python3](./Merge%20K%20Sorted%20List.py)
