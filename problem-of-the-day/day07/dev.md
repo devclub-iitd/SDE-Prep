@@ -5,9 +5,8 @@
 Today, you should learn about RESTful APIs, which are a set of rules that allow programs to communicate with each other. RESTful APIs are widely used in web development! It's named after **Re**presentational **S**tate **T**ransfer (REST); an architectural style that defines a set of constraints to be used for creating web services.
 
 ## Resources
-
 1. [AWS - What is RESTful API?](https://aws.amazon.com/what-is/restful-api/)
-2. [Red Hat - What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+2. [Hussein Nasser - Stateful vs Stateless](https://www.youtube.com/watch?v=nFPzI_Qg3FU)
 3. [Rest API Tutorial](https://www.restapitutorial.com/) - This tutorial will help you understand the basics of RESTful APIs, including how to design and consume them.
 
 ## Tips
