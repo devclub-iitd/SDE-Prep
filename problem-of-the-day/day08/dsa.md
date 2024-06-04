@@ -19,3 +19,5 @@ Please find the problem links below:
 3. **[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)**
 4. **[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)** - Could you solve it with time complexity O(height of tree)?
 5. **[kth smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/1204380583/)**
+
+**Note:** Solutions to [day07](../day07) are uploaded.
