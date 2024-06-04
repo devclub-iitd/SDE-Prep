@@ -2,7 +2,6 @@
 
 ## Introduction to Authorizations and Authentication
 Authorization and authentication are fundamental aspects of securing access to resources in web development. They play a pivotal role in safeguarding sensitive data and functionalities within web applications. This README.md aims to provide a comprehensive understanding of authorization and authentication, along with practical implementation tips and resources.
----
 
 ## Overview
 Proper authorization and authentication mechanisms ensure that only authorized users can access specific resources and perform allowed actions within a web application. Failure to implement robust security measures can lead to unauthorized access, data breaches, and compromised user privacy.
