@@ -6,7 +6,9 @@ The primary purpose of joins is to retrieve data that is spread across multiple 
 
 For theory, follow [W3 Schools](https://www.w3schools.com/sql/sql_join.asp), and read the complete article.
 
-For practice, checkout this : [PracticePaper.in](https://practicepaper.in/gate-cse/sql), it has an awesome set of questions.
+For practice, checkout this : [PracticePaper.in](https://practicepaper.in/gate-cse/sql).  
+It contains Gate questions on SQL, which are important as they provide rigorous, real-world scenarios to test your understanding and application of SQL joins, enhancing your problem-solving skills and preparing you for job interviews.
+
 
 We'll cover more advanced topics in the upcoming weeks... So Stay tuned...    
 Additional Resources :
