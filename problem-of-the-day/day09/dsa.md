@@ -2,12 +2,12 @@
 
 ## Introduction to Graphs
 
-Today we begin with graphs, and learn about Topological Sorting, SCC component, Dijsktra's Algorithm and Minimum Spanning Tree. Thus these topics require practice in implementation,we wont give any other problem, and only direct problems from this topic today for practicing implemntation. We give variations to these tomorrow. We give resources and the corresponding problems together.
+Today we begin with graphs, and learn about Topological Sorting, SCC component, Dijsktra's Algorithm and Minimum Spanning Tree. Thus these topics require practice in implementation,we won't give any other problem, and only direct problems from this topic today for practicing implementation. We give variations to these tomorrow. We give resources and the corresponding problems together.
 
 ## Resources
 
 1. [Topological Sort](https://cp-algorithms.com/graph/topological-sort.html):- [Course Schedule](https://cses.fi/problemset/task/1679). 
-2. [SCC Component](https://www.youtube.com/watch?v=wUgWX0nc4NY):- This is one the most intensive algorithm you will encounter during a typical COL106 Course. Try proving the correctness of theorem. You may to refer gfgs explanation for the same. [Flight Routes Check](https://cses.fi/problemset/task/1682), [Planets and Kingdom](https://cses.fi/problemset/task/1683.).
+2. [SCC Component](https://www.youtube.com/watch?v=wUgWX0nc4NY):- This is one the most intensive algorithm you will encounter during a typical COL106 Course. Try proving the correctness of Algorithm. [Flight Routes Check](https://cses.fi/problemset/task/1682), [Planets and Kingdom](https://cses.fi/problemset/task/1683.).
 3. [Dijkstra Algorithm](https://cp-algorithms.com/graph/dijkstra.html) and [BellmanFord Algorithm](https://cp-algorithms.com/graph/bellman_ford.html):- [Shortest Route I](https://cses.fi/problemset/task/1671), [Flight Discount](https://cses.fi/problemset/task/1195) (this problem came in last years COL106 Sem2301 Demo Lab Test).
 4. [Floyd Warshal](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html):- [Shortest Route II](https://cses.fi/problemset/task/1672)
 5. [Union Find](https://cp-algorithms.com/data_structures/disjoint_set_union.html):- This is a "helper" data structure. Will be used in the next Graph Algorithm.
