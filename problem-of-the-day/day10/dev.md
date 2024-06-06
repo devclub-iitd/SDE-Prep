@@ -1,4 +1,4 @@
-# Dev Topic of the day
+# Dev problem of the day
 ## Encapsulation
 
 Encapsulation is a key idea in OOP that involves bundling data (variables) and methods (functions) that work on the data into a single unit called a class. It has two main benefits:
