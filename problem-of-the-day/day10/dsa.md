@@ -2,7 +2,7 @@
 
 ## Introduction to Graphs II
 
-## Resources
+## Problems
 
 1. [Monsters](https://cses.fi/problemset/task/1194).
 2. [Message Route](https://cses.fi/problemset/task/1667/).
