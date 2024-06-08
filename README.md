@@ -2,9 +2,10 @@
 Resources for preparing for SDE interviews and tests for internships and placements
 
 
-## WhatsApp Group
-Join [here](https://chat.whatsapp.com/CfgJ0MgnYqCIoSlstnpFLp)!
-
+## Stay in Touch!
+- **WhatsApp Group** Join [here](https://chat.whatsapp.com/CfgJ0MgnYqCIoSlstnpFLp)!
+- Progress Tracker [Week 1](https://forms.gle/qmLzb6ECph152C39A) (Please fill the form every day to keep track)
+- Progress Tracker [Week 2](https://forms.gle/c7tWkGxfYM8wwfMz6) (Please fill the form every day to keep track)
 
 ## DSA Resources
 
