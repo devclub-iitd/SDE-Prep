@@ -14,7 +14,8 @@ After covering all the major data structures, we will now be focusing on few spe
 5. [Digit Queries](https://cses.fi/problemset/task/2431/):- Make sure to use long long in this problem. What happens when you use int. Also implement it in python. Why no such issue occurs there. What is the internal implementation of integers in python.
 
 ## Resources
-1. [Introduction to Dynamic Programming](https://cp-algorithms.com/dynamic_programming/intro-to-dp.html) 
+
+1. [Introduction to Dynamic Programming](https://cp-algorithms.com/dynamic_programming/intro-to-dp.html)
 2. [Greedy Algorithm](https://www.geeksforgeeks.org/greedy-algorithms/):- Prim's and Kruskal's Algorithm. Which is greedy ? What about Dijkstra ?
 
 **Note:** Solutions to [day12](../day12) are uploaded.
