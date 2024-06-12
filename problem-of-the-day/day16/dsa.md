@@ -39,7 +39,7 @@ No where in the discussion did I mention that elements on which precomputation i
 
 ### Left Over
 
-The ways an array is divided into smaller parts can be broadly categorized into 2 types. one where 2 distinct parts never overlap (like segment tree, precomputation time complexity $O(n)$), or where they might overlap (sparse table, generaly time complexity of precomputation $O(nlogn)$).
+The ways an array is divided into smaller parts can be broadly categorized into 2 types. one where 2 distinct parts never overlap (like segment tree, precomputation time complexity $O(n)$ ), or where they might overlap (sparse table, generaly time complexity of precomputation $O(nlogn)$ ).
 The 2 properties mentioned above are the answer to the properties asked in the follow up question from day06.
 
 ## Resources
