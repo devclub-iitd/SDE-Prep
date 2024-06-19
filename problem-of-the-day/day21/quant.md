@@ -1,0 +1,1 @@
+A postman brought 5 letters to a house with two letter-boxes. Since the two boxes were empty, he puts 1 mail in each of the two mail boxes. Then he chooses one of boxes with probability proportional to number of letters present in that box, and puts the 3rd letter in it. He does this for all subsequent letters. What is the expected number of letters in the box with lower letters?
