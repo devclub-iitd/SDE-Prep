@@ -1,4 +1,4 @@
-# Today's Dev topic: Polymorphism in OOPS 
+# Today's Dev topic: Polymorphism in OOP
 
 Polymorphism is a core concept in Object-Oriented Programming (OOP) that allows objects of different classes to be treated as objects of a common superclass. It enables different classes to respond to the same method call in a manner specific to their types. There are two main types of polymorphism: compile-time (or static) and runtime (or dynamic).
 
