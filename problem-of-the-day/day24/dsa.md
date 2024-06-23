@@ -1,6 +1,6 @@
 # DSA Problem of the Day (24/06/2024)
 
-## Binary Search Continue
+## Binary Search and Miscellaneous
 
 ## Problems
 
