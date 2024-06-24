@@ -10,4 +10,5 @@
 3. [Set or Decrease](https://codeforces.com/problemset/problem/1622/C)
 4. [Strange Test](https://codeforces.com/problemset/problem/1622/C)
 5. [Bitwise Operation Wizard](https://codeforces.com/problemset/problem/1936/A)
+
 *Note:*  Solutions to [day23](../day23) are uploaded.
