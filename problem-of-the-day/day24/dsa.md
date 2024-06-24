@@ -8,7 +8,7 @@
 1. [Hamburgers](https://codeforces.com/problemset/problem/371/C)
 2. [Doremy](https://codeforces.com/problemset/problem/1707/A)
 3. [Set or Decrease](https://codeforces.com/problemset/problem/1622/C)
-4. [Strange Test](https://codeforces.com/problemset/problem/1622/C)
+4. [Strange Test](https://codeforces.com/problemset/problem/1632/C)
 5. [Bitwise Operation Wizard](https://codeforces.com/problemset/problem/1936/A)
 6. [The Great Hero](https://codeforces.com/problemset/problem/1480/C)
 *Note:*  Solutions to [day23](../day23) are uploaded.
