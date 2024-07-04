@@ -1,0 +1,4 @@
+Alice and Bob are playing a game with n distinct Lego Bricks, labeled from 1 through n inclusive, where n is a positive integer. The game is played as such:
+At the beginning, Alice randomly arranges the bricks into a line, with each possible ordering of bricks (with regards to the labels) having an equal chance of being chosen. Each move, Bob can take the leftmost brick in the line and place it in any other position (the position of a brick is uniquely defined by how many other bricks there are to the left of it), and his goal is to rearrange the bricks so that they lie in increasing order from left to right (so the leftmost brick would be 1 and the rightmost brick would be n).
+
+For each n, compute the expected value of the minimum number of moves that Bob would require to achieve his goal
